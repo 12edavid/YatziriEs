@@ -17,7 +17,7 @@ no para aislarme del mundo,
 sino para entender el tuyo.  
 
 Te he observado con el respeto de quien admira una estrella lejana:  
-Descubrí que te haces llamar <span>*Yatziri*<span>, 
+Descubrí que te haces llamar *Yatziri*, 
 aunque sé que ese nombre fue adoptado, no nacido.  
 Descubrí que caminas con pasos de <span>45° exactos</span>,  
 medidos del tobillo a la cintura,  
@@ -25,7 +25,7 @@ como si cada movimiento estuviera escrito en un lenguaje secreto.
 
 Tu sonrisa…  
 una curva paralela a la perfección.  
-<span>Tus ojos…<span>  
+Tus ojos… 
 tienen una simetría bilateral tan precisa,  
 con una leve inclinación ascendente que parece hecha por diseño divino.  
 
