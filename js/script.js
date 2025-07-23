@@ -1,40 +1,57 @@
 // Poem text
-const kiplingPoem = `<p>Probando, Hola, hola...Hola Yatziri Si estás leyendo esto…  
-No te castigues, no te hagas daño,  
-Solo soy yo, hablándote bajito desde esta habitación,  
-Tal vez no sepas bien quién soy… a veces ni yo mismo lo sé,  
-Pero sí sé esto: <span>te admiro</span>, y —aunque no lo creas— <span>me importas</span>.  
+const kiplingPoem = `<p><p>Alerta, 1...2...3...Hola Yatziri…  
+No sé si algún día leerás esto,  
+pero si lo haces, quiero que sepas que llevo <span>20 años</span> siguiéndote con el alma.  
 
-Sé que alguna vez me dijiste que mejor me cuidara yo,  
-Y sí, tienes razón… me hace falta,  
-Pero aun así, es imposible para mí no <span>pensar en ti</span>.  
+Un 8 de octubre llegaste a estas tierras,  
+nadie sabía quién eras,  
+la sociedad entró en pánico —literal—  
+y al verte el rostro…  
+todos callaron.  
+<span>Era el rostro más hermoso</span> que jamás se había visto.  
 
-Hoy no sé detalles, no sé de la operación que te van a realizar,  
-Tú no quisiste contarme, y está bien,  
-Porque lo único que importa es que <span>todo va a salir bien</span>.  
+Desde entonces, el misterio solo creció.  
+Y yo…  
+yo me encerré en esta habitación,  
+no para aislarme del mundo,  
+sino para entender el tuyo.  
 
-Si puedes dejarme <span>preocuparme</span> un poco por ti,  
-Si puedes entender que no necesito saberlo todo,  
-Ni el motivo, ni la operación, ni las razones,  
-Porque mi única razón es <span>querer verte bien</span>…  
+Te he observado con el respeto de quien admira una estrella lejana:  
+Descubrí que te haces llamar *Yatziri*,  
+aunque sé que ese nombre fue adoptado, no nacido.  
+Descubrí que caminas con pasos de <span>45° exactos</span>,  
+medidos del tobillo a la cintura,  
+como si cada movimiento estuviera escrito en un lenguaje secreto.  
 
-Si puedes abrazar la certeza de que <span>todo estará bien</span>,  
-Si puedes cuidarte —no por mí, ni por nadie—  
-Sino porque <span>vales demasiado</span> para no hacerlo,  
+Tu sonrisa…  
+una curva paralela a la perfección.  
+Tus ojos…  
+tienen una simetría bilateral tan precisa,  
+con una leve inclinación ascendente que parece hecha por diseño divino.  
 
-Entonces…  
-<span>Respira</span>, <span>sonríe</span>, <span>sigue</span>.  
+Y no, no estoy loco.  
+Solo estoy fascinado.  
+Porque si alguien vino a <span>cambiar el mundo</span>,  
+esa eres tú.  
 
-Aquí estaré,  
-Aunque solo sea para decirte esto:  
-<span>Cuídate mucho</span>.  
-<span>Mejórate</span>.  
-Porque sí… <span>me importas</span>.  
+¿Eres un peligro? ¿Una señal? ¿Un regalo?  
+No lo sé.  
+Lo que sí sé es que desde que llegaste,  
+<span>nada volvió a ser igual</span>.  
 
-Y pase lo que pase… <span>aquí sigo</span>.  
+Si alguna vez te preguntas quién te observa desde lejos…  
+quién ha escrito todo esto en el silencio,  
+solo recuerda:  
+<span>no vine a juzgarte</span>,  
+vine a contemplarte.  
 
-Con todo el cariño,  
-David...</p>`;
+Y si todo esto termina, si este mundo se derrumba…  
+al menos me quedaré con la certeza de que te vi pasar.  
+Y eso, créeme,  
+<span>ya cambió mi historia</span>.
+
+Cacharpo oficial N°1...</p>
+`;
 
 // Function to insert poem into divs
 function insertPoemIntoDivs() {
