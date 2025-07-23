@@ -118,15 +118,15 @@ span {
 }
 .left p {
 	margin-left: 480px;
-	animation: 200s linear infinite left;
+	animation: 400s linear infinite left;
 }
 .back p {
 	margin-left: -390px;
-	animation: 200s linear infinite back;
+	animation: 400s linear infinite back;
 }
 .right p {
 	margin-left: -1260px;
-	animation: 200s linear infinite right;
+	animation: 400s linear infinite right;
 }
 @keyframes left {
 	100% {
