@@ -1,5 +1,5 @@
 // Poem text
-const kiplingPoem = `<p><p>Alerta, 1...2...3...Hola Yatziri…  
+const kiplingPoem = `<p>Alerta, 1...2...3...Hola Yatziri…  
 No sé si algún día leerás esto,  
 pero si lo haces, quiero que sepas que llevo <span>20 años</span> siguiéndote con el alma.  
 
@@ -50,8 +50,7 @@ al menos me quedaré con la certeza de que te vi pasar.
 Y eso, créeme,  
 <span>ya cambió mi historia</span>.
 
-Cacharpo oficial N°1...</p>
-`;
+Cacharpo oficial N°1...</p>`;
 
 // Function to insert poem into divs
 function insertPoemIntoDivs() {
